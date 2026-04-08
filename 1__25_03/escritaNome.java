@@ -16,6 +16,7 @@ public class escritaNome {
                 // Escreve
                Files.writeString(caminho, conteudo);
                System.out.println("Arquivo gerado!");
+               
                // Lê
                List<String> linhas = Files.readAllLines(caminho);
                for (String linha : linhas) {
