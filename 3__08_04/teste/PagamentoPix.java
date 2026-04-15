@@ -1,3 +1,4 @@
+
 public class PagamentoPix implements PagamentoStrategy{
     @Override
     public double pagar(double valor){
@@ -6,4 +7,3 @@ public class PagamentoPix implements PagamentoStrategy{
         return valor;
     }
 }
-

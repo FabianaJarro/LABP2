@@ -1,3 +1,4 @@
+
 public class PagamentoFactory{
     private PagamentoStrategy estrategia;
 
@@ -9,4 +10,3 @@ public class PagamentoFactory{
         return estrategia.pagar(valor);
     }
 }
-
