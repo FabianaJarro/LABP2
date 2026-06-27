@@ -1,7 +1,0 @@
-/home/fabiana/Desktop/joaotemochko SPOLBP2 main api_catalogoProdutos/src/main/java/com/example/api_catalogoProdutos/ApiCatalogoProdutosApplication.java
-/home/fabiana/Desktop/joaotemochko SPOLBP2 main api_catalogoProdutos/src/main/java/com/example/api_catalogoProdutos/controllers/ProdutoController.java
-/home/fabiana/Desktop/joaotemochko SPOLBP2 main api_catalogoProdutos/src/main/java/com/example/api_catalogoProdutos/dtos/ProdutoRequestDTO.java
-/home/fabiana/Desktop/joaotemochko SPOLBP2 main api_catalogoProdutos/src/main/java/com/example/api_catalogoProdutos/dtos/ProdutoResponseDTO.java
-/home/fabiana/Desktop/joaotemochko SPOLBP2 main api_catalogoProdutos/src/main/java/com/example/api_catalogoProdutos/models/Produto.java
-/home/fabiana/Desktop/joaotemochko SPOLBP2 main api_catalogoProdutos/src/main/java/com/example/api_catalogoProdutos/repositories/ProdutoRepository.java
-/home/fabiana/Desktop/joaotemochko SPOLBP2 main api_catalogoProdutos/src/main/java/com/example/api_catalogoProdutos/services/ProdutoService.java

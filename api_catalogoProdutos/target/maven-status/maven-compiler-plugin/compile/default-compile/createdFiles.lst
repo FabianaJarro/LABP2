@@ -1,7 +1,0 @@
-com/example/api_catalogoProdutos/services/ProdutoService.class
-com/example/api_catalogoProdutos/dtos/ProdutoRequestDTO.class
-com/example/api_catalogoProdutos/dtos/ProdutoResponseDTO.class
-com/example/api_catalogoProdutos/models/Produto.class
-com/example/api_catalogoProdutos/controllers/ProdutoController.class
-com/example/api_catalogoProdutos/ApiCatalogoProdutosApplication.class
-com/example/api_catalogoProdutos/repositories/ProdutoRepository.class
